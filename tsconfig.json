@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "types": ["node", "@playwright/test"]
+  },
+  "include": ["playwright.config.ts", "tests/**/*.ts"]
+}

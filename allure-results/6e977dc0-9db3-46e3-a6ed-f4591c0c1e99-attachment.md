@@ -1,0 +1,366 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic "Accessibility Menu":
+    - button "Accessibility Menu" [ref=e3] [cursor=pointer]
+  - generic [ref=e6]:
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - link "Register or Sign In" [ref=e11] [cursor=pointer]:
+          - /url: https://staging.bluebadgers.co.uk/login
+          - generic [ref=e12]: Register or Sign In
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: https://staging.bluebadgers.co.uk
+          - img [ref=e14]
+      - navigation [ref=e83]:
+        - navigation [ref=e84]:
+          - link "All BB Perks" [ref=e85] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/offers/all_offers
+          - link "Food & Drink" [ref=e86] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/offers/food
+          - link "Fun & Travel" [ref=e87] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/offers/entertainment
+          - button "Shopping ▼" [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: Shopping
+            - generic [ref=e91]: ▼
+          - link "BB Welcome Venues" [ref=e92] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/show/location
+          - button "More ▼" [ref=e94] [cursor=pointer]:
+            - generic [ref=e95]: More
+            - generic [ref=e96]: ▼
+    - main [ref=e97]:
+      - generic [ref=e99]:
+        - img "Header Image" [ref=e101]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - heading "Huge savings. Made accessible. The discount service for people with disability and their carers." [level=2] [ref=e104]:
+              - paragraph [ref=e105]:
+                - text: Huge savings.
+                - text: Made
+                - text: accessible.
+              - paragraph [ref=e106]: The discount service for people with disability and their carers.
+            - generic [ref=e107]:
+              - paragraph [ref=e108]: Explore the new app - available now.
+              - generic [ref=e109]:
+                - link "Google Play Get it on Google Play" [ref=e110] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.bluebadgersapp.app
+                  - img "Google Play" [ref=e111]
+                  - generic [ref=e112]:
+                    - paragraph [ref=e113]: Get it on
+                    - paragraph [ref=e114]: Google Play
+                - link "App Store Download on the App Store" [ref=e115] [cursor=pointer]:
+                  - /url: https://apps.apple.com/gb/app/blue-badgers/id6742231654
+                  - img "App Store" [ref=e116]
+                  - generic [ref=e117]:
+                    - paragraph [ref=e118]: Download on the
+                    - paragraph [ref=e119]: App Store
+          - img "Blue Badgers Mascot" [ref=e121]
+      - generic [ref=e123]:
+        - heading "Why Blue Badgers?" [level=2] [ref=e124]
+        - paragraph [ref=e125]: We know life for our community can be hectic. You deserve a break. That’s why Blue Badgers is here. We want to be your one-stop shop for great days out and amazing savings.
+        - paragraph [ref=e126]: Let us help you unwind and enjoy life’s little luxuries.
+        - link "Read more about us" [ref=e128] [cursor=pointer]:
+          - /url: https://staging.bluebadgers.co.uk/about-us
+        - paragraph [ref=e129]: Supported by great businesses and venues across the UK
+      - generic [ref=e132]:
+        - generic [ref=e134]:
+          - img "Partner logo" [ref=e136]
+          - img "Partner logo" [ref=e138]
+          - img "Partner logo" [ref=e140]
+          - img "Partner logo" [ref=e142]
+          - img "Partner logo" [ref=e144]
+          - img "Partner logo" [ref=e146]
+          - img "Partner logo" [ref=e148]
+          - img "Partner logo" [ref=e150]
+          - img "Partner logo" [ref=e152]
+          - img "Partner logo" [ref=e154]
+          - img "Partner logo" [ref=e156]
+          - img "Partner logo" [ref=e158]
+          - img "Partner logo" [ref=e160]
+          - img "Partner logo" [ref=e162]
+          - img "Partner logo" [ref=e164]
+          - img "Partner logo" [ref=e166]
+          - img "Partner logo" [ref=e168]
+          - img "Partner logo" [ref=e170]
+          - img "Partner logo" [ref=e172]
+          - img "Partner logo" [ref=e174]
+        - generic [ref=e176]:
+          - img "Partner logo" [ref=e178]
+          - img "Partner logo" [ref=e180]
+          - img "Partner logo" [ref=e182]
+          - img "Partner logo" [ref=e184]
+          - img "Partner logo" [ref=e186]
+          - img "Partner logo" [ref=e188]
+          - img "Partner logo" [ref=e190]
+          - img "Partner logo" [ref=e192]
+          - img "Partner logo" [ref=e194]
+          - img "Partner logo" [ref=e196]
+          - img "Partner logo" [ref=e198]
+          - img "Partner logo" [ref=e200]
+          - img "Partner logo" [ref=e202]
+          - img "Partner logo" [ref=e204]
+          - img "Partner logo" [ref=e206]
+          - img "Partner logo" [ref=e208]
+          - img "Partner logo" [ref=e210]
+          - img "Partner logo" [ref=e212]
+          - img "Partner logo" [ref=e214]
+          - img "Partner logo" [ref=e216]
+      - generic [ref=e219]:
+        - generic [ref=e220]:
+          - heading "Who can join Blue Badgers?" [level=2] [ref=e221]
+          - list [ref=e223]:
+            - listitem [ref=e224]:
+              - generic [ref=e225]: ✔
+              - generic [ref=e226]:
+                - text: If you qualify for a
+                - strong [ref=e227]: Blue Badge
+            - listitem [ref=e228]:
+              - generic [ref=e229]: ✔
+              - generic [ref=e230]:
+                - text: You are registered
+                - strong [ref=e231]: blind or severely sight impaired
+            - listitem [ref=e232]:
+              - generic [ref=e233]: ✔
+              - generic [ref=e234]:
+                - text: You receive
+                - strong [ref=e235]: DLA, PIP, Attendance Allowance or Child Disability Payments
+                - text: .
+          - paragraph [ref=e236]:
+            - strong [ref=e237]: Carers can also join Blue Badgers!
+          - paragraph [ref=e238]:
+            - text: Each eligible member can nominate
+            - strong [ref=e239]: Up to two people
+            - text: who care for them to also become Blue Badgers members and enjoy the same great savings. These carers don't need to be registered carers - they can be family members, friends, or anyone who provides care or support.
+        - img "Who is eligible" [ref=e241]
+      - generic [ref=e242]:
+        - img "Blue Badgers Cards"
+        - heading "Join our Blue Badgers Community and bag a whole year of savings!" [level=2] [ref=e243]:
+          - text: Join our Blue Badgers
+          - strong [ref=e244]: Community
+          - text: and bag
+          - text: a whole year of savings!
+        - paragraph [ref=e245]: Discover days out, tasty treats and huge savings...
+        - paragraph [ref=e247]:
+          - text: £4.99
+          - generic [ref=e248]: for a whole year
+      - generic [ref=e252]:
+        - heading "Latest Offers" [level=2] [ref=e253]
+        - generic [ref=e254]:
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - img "Book online for big savings on Alton Towers Day Passes, Parent & Toddler Passes and Waterpark Passes" [ref=e257]
+              - link "Alton Towers Resort":
+                - /url: https://staging.bluebadgers.co.uk/business-details/6
+                - img "Alton Towers Resort" [ref=e259] [cursor=pointer]
+            - generic [ref=e260]:
+              - heading "Book online for big savings on Alton Towers Day Passes, Parent & Toddler Passes and Waterpark Passes" [level=3] [ref=e261]
+              - paragraph [ref=e262]: Alton Towers Resort is home to over 40 rides and attractions, for guests of all ages. 10 main rollercoasters are the stars of the show, each with record-breaking elements designed to thrill and delight anyone brave enough to ride. With 20 attractions aimed at young children and families, Alton Towers is the only place in the UK where you can meet some of CBeebies best loved characters.
+              - generic [ref=e263]:
+                - link "Get Now - Alton Towers Resort Offer" [ref=e264] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/6
+                  - text: Get Now
+                - paragraph [ref=e265]: Expires 31/08/2026
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - 'img "Hex: The Legend of the Towers Behind the Scenes VIP Experience" [ref=e268]'
+              - link "Alton Towers Resort":
+                - /url: https://staging.bluebadgers.co.uk/business-details/6
+                - img "Alton Towers Resort" [ref=e270] [cursor=pointer]
+            - generic [ref=e271]:
+              - 'heading "Hex: The Legend of the Towers Behind the Scenes VIP Experience" [level=3] [ref=e272]'
+              - paragraph [ref=e273]: Explore the attraction up close with an exciting look into the Drum Cellar, Vault, and Operator Cabin on an immersive walking tour. Uncover the history, heritage and secrets of the building from the ominous Octagon to the awesome technical mastery of the Vault. Plus, get Fastrack access, Express Parking, and a limited-edition pin badge, this is the ultimate experience for every Hex fan!
+              - generic [ref=e274]:
+                - link "Get Now - Alton Towers Resort Offer" [ref=e275] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/7
+                  - text: Get Now
+                - paragraph [ref=e276]: Expires 31/08/2026
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - img "Free Carer ticket at Cadbury World" [ref=e279]
+              - link "Cadbury World":
+                - /url: https://staging.bluebadgers.co.uk/business-details/7
+                - img "Cadbury World" [ref=e281] [cursor=pointer]
+            - generic [ref=e282]:
+              - heading "Free Carer ticket at Cadbury World" [level=3] [ref=e283]
+              - paragraph [ref=e284]: Cadbury World in Bournville, Birmingham, offers a delightful and interactive journey through the history of chocolate and the Cadbury company. Cadbury World is designed with accessibility in mind, featuring step-free access, lifts, and accessible toilets. Notably, Cadbury World also provides free carer tickets for visitors who require assistance, ensuring everyone can enjoy the chocolatey experience!
+              - generic [ref=e285]:
+                - link "Get Now - Cadbury World Offer" [ref=e286] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/8
+                  - text: Get Now
+                - paragraph [ref=e287]: Expires 31/08/2026
+      - generic [ref=e289]:
+        - heading "Featured BB Perks" [level=2] [ref=e290]
+        - generic [ref=e291]:
+          - generic [ref=e292]:
+            - generic [ref=e293]:
+              - img "Save on your Tesco's shopping" [ref=e294]
+              - link "Tesco":
+                - /url: https://staging.bluebadgers.co.uk/business-details/139
+                - img "Tesco" [ref=e296] [cursor=pointer]
+            - generic [ref=e297]:
+              - heading "Save on your Tesco's shopping" [level=3] [ref=e298]
+              - paragraph [ref=e299]: Buy a Tesco e-gift card through Blue Badgers and enjoy 3% off your everyday shopping. Spend it in-store on groceries, home essentials and more.
+              - generic [ref=e300]:
+                - link "Get Now - Tesco Offer" [ref=e301] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/531
+                  - text: Get Now
+                - paragraph [ref=e302]: Expires 31/12/2027
+          - generic [ref=e303]:
+            - generic [ref=e304]:
+              - img "7% off ASOS" [ref=e305]
+              - link "ASOS":
+                - /url: https://staging.bluebadgers.co.uk/business-details/148
+                - img "ASOS" [ref=e307] [cursor=pointer]
+            - generic [ref=e308]:
+              - heading "7% off ASOS" [level=3] [ref=e309]
+              - paragraph [ref=e310]: Refresh your wardrobe and save with 7% off ASOS eGift cards. ASOS offers over 80,000 branded and own-brand products. From the latest fashion trends and shoes to accessories and beauty, ASOS has everything you need to stay stylish. Grab a discounted eGift card and enjoy instant savings on your next order.
+              - generic [ref=e311]:
+                - link "Get Now - ASOS Offer" [ref=e312] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/607
+                  - text: Get Now
+                - paragraph [ref=e313]: Expires 31/12/2027
+          - generic [ref=e314]:
+            - generic [ref=e315]:
+              - img "Save on your Sainsbury's shopping" [ref=e316]
+              - link "Sainsburys":
+                - /url: https://staging.bluebadgers.co.uk/business-details/140
+                - img "Sainsburys" [ref=e318] [cursor=pointer]
+            - generic [ref=e319]:
+              - heading "Save on your Sainsbury's shopping" [level=3] [ref=e320]
+              - paragraph [ref=e321]: Purchase a Sainsbury’s e-gift card through Blue Badgers and enjoy instant savings on groceries, home essentials and more.
+              - generic [ref=e322]:
+                - link "Get Now - Sainsburys Offer" [ref=e323] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/529
+                  - text: Get Now
+                - paragraph [ref=e324]: Expires 31/12/2026
+          - generic [ref=e325]:
+            - generic [ref=e326]:
+              - img "6% off Ikea" [ref=e327]
+              - link "Ikea":
+                - /url: https://staging.bluebadgers.co.uk/business-details/157
+                - img "Ikea" [ref=e329] [cursor=pointer]
+            - generic [ref=e330]:
+              - heading "6% off Ikea" [level=3] [ref=e331]
+              - paragraph [ref=e332]: Give the gift of choice with 6% off IKEA eGift cards. IKEA is the world-renowned Swedish retailer, known for affordable, stylish, and functional furniture, home accessories, and décor. Let someone pick exactly what they love, whether online or in-store, by choosing the amount you want to give. Perfect for any occasion, an IKEA gift card lets the recipient create a home they’ll love while you enjoy instant savings.
+              - generic [ref=e333]:
+                - link "Get Now - Ikea Offer" [ref=e334] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/617
+                  - text: Get Now
+                - paragraph [ref=e335]: Expires 31/12/2027
+          - generic [ref=e336]:
+            - generic [ref=e337]:
+              - img "30% off Garmin" [ref=e338]
+              - link "Garmin":
+                - /url: https://staging.bluebadgers.co.uk/business-details/153
+                - img "Garmin" [ref=e340] [cursor=pointer]
+            - generic [ref=e341]:
+              - heading "30% off Garmin" [level=3] [ref=e342]
+              - paragraph [ref=e343]: Push your limits and stay connected with 30% off Garmin. Garmin makes products engineered on the inside for life on the outside, helping you get the most from every moment spent pursuing your passions. From GPS navigation and wearable tech to devices for automotive, aviation, marine, outdoor, and fitness adventures, Garmin combines innovation with performance so you can make every day an opportunity to beat yesterday.
+              - generic [ref=e344]:
+                - link "Get Now - Garmin Offer" [ref=e345] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/613
+                  - text: Get Now
+                - paragraph [ref=e346]: Expires 31/12/2027
+          - generic [ref=e347]:
+            - generic [ref=e348]:
+              - img "10% off Adidas" [ref=e349]
+              - link "adidas":
+                - /url: https://staging.bluebadgers.co.uk/business-details/147
+                - img "adidas" [ref=e351] [cursor=pointer]
+            - generic [ref=e352]:
+              - heading "10% off Adidas" [level=3] [ref=e353]
+              - paragraph [ref=e354]: Save on your next sportswear shop with 10% off Adidas eGift cards. Known as the brand with the Three Stripes, adidas blends a rich sporting heritage with innovative technology and standout design. From the stadium to the streets, explore trainers, activewear, and accessories loved by athletes and trendsetters alike—while enjoying instant savings on your next purchase.
+              - generic [ref=e355]:
+                - link "Get Now - adidas Offer" [ref=e356] [cursor=pointer]:
+                  - /url: https://staging.bluebadgers.co.uk/offer-details/608
+                  - text: Get Now
+                - paragraph [ref=e357]: Expires 31/12/2027
+        - generic [ref=e358]:
+          - heading "Unlock Hundreds of Exclusive Rewards" [level=3] [ref=e359]
+          - paragraph [ref=e360]: Access the full rewards marketplace and claim discounts from top brands.
+          - link "Featured BB Perks" [ref=e361] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/rewards/open
+        - generic [ref=e362]:
+          - heading "Discover the magic of live performance with Theatre!" [level=3] [ref=e363]
+          - paragraph [ref=e364]:
+            - text: Your ultimate destination for securing the best seats at the hottest shows across the UK.
+            - text: Immerse yourself in storytelling, music, and breath taking performances. Find your perfect show and book with confidence today!
+          - link "BB Theatre" [ref=e365] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/open/theater
+    - contentinfo [ref=e366]:
+      - generic [ref=e368]:
+        - heading "Already a Blue Badgers member?" [level=2] [ref=e369]
+        - generic [ref=e370]:
+          - textbox "Username or Email" [ref=e371]
+          - textbox "Password" [ref=e372]
+          - generic [ref=e373]:
+            - button "Sign In" [ref=e374] [cursor=pointer]
+            - link "Register" [ref=e375] [cursor=pointer]:
+              - /url: https://staging.bluebadgers.co.uk/register-option
+      - generic [ref=e376]:
+        - generic [ref=e377]:
+          - generic [ref=e378]:
+            - img "blue badgers logo" [ref=e379]
+            - generic [ref=e381]:
+              - link "Linkedin" [ref=e382] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/blue-badgers/
+                - img [ref=e383]
+                - generic [ref=e386]: Linkedin
+              - link "Facebook" [ref=e387] [cursor=pointer]:
+                - /url: https://www.facebook.com/share/16unMiWjSm
+                - img [ref=e388]
+                - generic [ref=e391]: Facebook
+              - link "Instagram" [ref=e392] [cursor=pointer]:
+                - /url: https://www.instagram.com/wearebluebadgers?igsh=YjczOTZ3NWRqeGp6
+                - img [ref=e393]
+                - generic [ref=e398]: Instagram
+          - list [ref=e399]:
+            - listitem [ref=e400]:
+              - link "About us" [ref=e401] [cursor=pointer]:
+                - /url: https://staging.bluebadgers.co.uk/about-us
+            - listitem [ref=e402]:
+              - link "Latest News" [ref=e403] [cursor=pointer]:
+                - /url: https://staging.bluebadgers.co.uk/latest-news
+            - listitem [ref=e404]:
+              - link "FAQs" [ref=e405] [cursor=pointer]:
+                - /url: https://staging.bluebadgers.co.uk/faqs
+            - listitem [ref=e406]:
+              - link "Our Partners" [ref=e407] [cursor=pointer]:
+                - /url: https://staging.bluebadgers.co.uk/partners
+            - listitem [ref=e408]:
+              - link "Contact Us" [ref=e409] [cursor=pointer]:
+                - /url: https://staging.bluebadgers.co.uk/contact-us
+        - generic [ref=e412]:
+          - generic [ref=e413]:
+            - heading "Newsletter" [level=2] [ref=e414]
+            - paragraph [ref=e415]: Join our newsletter to stay up to date on offers, features and releases
+            - generic [ref=e418]:
+              - textbox "Email Address" [ref=e419]
+              - button "Subscribe" [ref=e420] [cursor=pointer]:
+                - img [ref=e421]
+                - generic [ref=e423]: Subscribe
+          - img "Blue Badger Mascot" [ref=e425]
+    - generic [ref=e427]:
+      - paragraph [ref=e428]:
+        - text: © 2026
+        - link "Blue Badgers" [ref=e429] [cursor=pointer]:
+          - /url: https://staging.bluebadgers.co.uk
+        - text: . All Rights Reserved.
+      - list [ref=e430]:
+        - listitem [ref=e431]:
+          - link "Business and Venue Terms & Conditions" [ref=e432] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/terms-business-account
+        - listitem [ref=e433]:
+          - link "Website Terms & Conditions" [ref=e434] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/terms
+        - listitem [ref=e435]:
+          - link "Privacy Notice" [ref=e436] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/privacy-policy
+        - listitem [ref=e437]:
+          - link "Cookies Policy" [ref=e438] [cursor=pointer]:
+            - /url: https://staging.bluebadgers.co.uk/cookie-policy
+        - listitem [ref=e439]:
+          - link "Manage Cookies" [ref=e440] [cursor=pointer]:
+            - /url: "#cookies-policy"
+```
