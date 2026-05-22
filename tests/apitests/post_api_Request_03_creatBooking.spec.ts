@@ -21,7 +21,7 @@ Add url to playwright.config.ts file
 import { test, expect } from "@playwright/test"
 import {faker} from "@faker-js/faker"
 import {DateTime} from "luxon"
-// @ts-ignore
+
 
 
 
