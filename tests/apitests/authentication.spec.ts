@@ -39,11 +39,11 @@ test('Basic Auth - HTTPBin', async ({ request }) => {
 test('Verify Bearer Token Authentication', async ({ request }) => {
   
 
-  const response = await request.get('https://api.github.com/user/repos', {
-    headers: {
-      Authorization: `Bearer ${bearerToken}`,
-    },
-  });
+  // const response = await request.get('https://api.github.com/user/repos', {
+  //   headers: {
+  //     Authorization: `Bearer ${bearerToken}`,
+  //   },
+  // });
 
   expect(response.status()).toBe(200);
   const repos = await response.json();
@@ -54,12 +54,12 @@ test('Verify Bearer Token Authentication', async ({ request }) => {
 
 test('Bearer Token Auth', async ({ request }) => {
    // Replace with a real token
-  const response = await request.get('https://api.github.com/user', {
-    headers: {
-      Authorization: `Bearer ${token}`,
-      'User-Agent': 'playwright',
-    },
-  });
+  // const response = await request.get('https://api.github.com/user', {
+  //   headers: {
+  //     Authorization: `Bearer ${token}`,
+  //     'User-Agent': 'playwright',
+  //   },
+  // });
   expect(response.status()).toBe(200);
   const data = await response.json();
   console.log(data);
