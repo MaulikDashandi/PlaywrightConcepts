@@ -37,7 +37,7 @@ test('Basic Auth - HTTPBin', async ({ request }) => {
 // 3. Bearer Token Auth (Get github user repositories)
 
 test('Verify Bearer Token Authentication', async ({ request }) => {
-  const bearerToken = "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";
+  
 
   const response = await request.get('https://api.github.com/user/repos', {
     headers: {
@@ -53,7 +53,7 @@ test('Verify Bearer Token Authentication', async ({ request }) => {
 // 3.1. Bearer Token Auth (Get github user info)
 
 test('Bearer Token Auth', async ({ request }) => {
-  const token = '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'; // Replace with a real token
+   // Replace with a real token
   const response = await request.get('https://api.github.com/user', {
     headers: {
       Authorization: `Bearer ${token}`,
